@@ -1,0 +1,14 @@
+body {
+    background-color:mediumpurple;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
